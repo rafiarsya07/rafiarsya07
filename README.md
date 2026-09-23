@@ -50,10 +50,6 @@ Festival website for PPI-UM.<br>Next.js, Tailwind, built from Figma.
 
 <br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rafiarsya07&theme=algolia&no-frame=true&row=1&column=6)
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiarsya07/rafiarsya07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafiarsya07/rafiarsya07/output/github-snake.svg" />
