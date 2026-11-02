@@ -15,6 +15,7 @@ for collabs or internships, do reach out via [email](mailto:rafiarsya.work@gmail
 
 📝 [nalar](https://blog.rafiarsya.com), my self-hosted blog cms built from scratch<br>
 🛍️ campusbay, a marketplace for students to share notes and sell stuff<br>
+🚛 umove, (https://umove.my) little projects
 🎭 idfest 2026, the festival website for ppi-um
 
 🧰 **tools i use a lot:**
